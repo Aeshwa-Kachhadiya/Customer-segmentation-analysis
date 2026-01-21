@@ -182,15 +182,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 ## 📧 Contact & Support
 
 **Aeshwa Kachhadiya** - Business Analyst  
-📧 Email: your.email@example.com  
-💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-🐙 GitHub: [@Aeshwa-Kachhadiya](https://github.com/Aeshwa-Kachhadiya)
+📧 Email: aeshwakachhadiya129@gmail.com  
+💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/aeshwakachhadiya/)  
+🐙 GitHub: [@Aeshwa-Kachhadiya](https://github.com/Aeshwa-Kachhadiya?tab=repositories)
 
-For issues and questions: [Create an Issue](https://github.com/YOUR-USERNAME/customer-segmentation-analysis/issues)
+For issues and questions: [Create an Issue](https://github.com/Aeshwa-Kachhadiya/customer-segmentation-analysis/issues)
 
-## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
